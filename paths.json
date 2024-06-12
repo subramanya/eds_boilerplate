@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/sguptha-xwalk1/:/",
-    "/content/sguptha-xwalk1/configuration:/.helix/config.json"
+    "/content/sguptha-eds/:/",
+    "/content/sguptha-eds/configuration:/.helix/config.json"
   ]
 }
